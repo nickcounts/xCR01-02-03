@@ -1,4 +1,4 @@
-# ☒CHIP CW01
+# ☒CHIP CR01
 
 ## General Description
 The SX1276/77/78/79 transceivers feature the LoRaTM long
