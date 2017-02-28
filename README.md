@@ -1,7 +1,6 @@
 # ☒CHIP CW01
 
 ## General Description
-
 The SX1276/77/78/79 transceivers feature the LoRaTM long
 range modem that provides ultra-long range spread
 spectrum communication and high interference immunity
@@ -27,7 +26,6 @@ current consumption than competing devices.
 
 
 ## Key Features
-
 - LoRaTM Modem
 - 168 dB maximum link budget
 - +20 dBm - 100 mW constant RF output vs. V supply
@@ -47,7 +45,12 @@ current consumption than competing devices.
 - Built-in temperature sensor and low battery indicator
 
 ## Requirements
-
 - Installation of the Arduino IDE 1.8.1 from the [Arduino Website](https://www.arduino.cc/en/main/software)
+- Installation of the RadioHead
 - ☒CHIP [Core Library](https://github.com/xinabox/xCore)
 - ☒CHIP CR01
+
+## Installation Guide
+To install the libraries please followed the guide provided on the [Arduino Website](https://www.arduino.cc/en/Guide/Libraries) under "**Importing a .zip Library**".
+
+
