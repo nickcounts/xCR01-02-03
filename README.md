@@ -1,4 +1,4 @@
-# ☒CHIP CR01
+# ☒CHIP CR01/CR02/CR03
 
 ## General Description
 The SX1276/77/78/79 transceivers feature the LoRaTM long
@@ -48,7 +48,7 @@ current consumption than competing devices.
 - Installation of the Arduino IDE 1.8.1 from the [Arduino Website](https://www.arduino.cc/en/main/software)
 - Installation of the RadioHead
 - ☒CHIP [Core Library](https://github.com/xinabox/xCore)
-- ☒CHIP CR01
+- ☒CHIP CR01/CR02/CR03
 
 ## Installation Guide
 To install the libraries please followed the guide provided on the [Arduino Website](https://www.arduino.cc/en/Guide/Libraries) under "**Importing a .zip Library**".
