@@ -1,7 +1,9 @@
 # ☒CHIP CR01/CR02/CR03
 
 > CR01 = 433.92 MHz
+
 > CR02 = 868 MHz
+
 > CR03 = 915 MHz
 
 ## General Description
